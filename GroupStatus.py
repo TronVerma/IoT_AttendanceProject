@@ -5,7 +5,7 @@ import httplib, urllib, base64
 
 headers = {
     # Request headers
-    'Ocp-Apim-Subscription-Key': 'e120910955f64c9e9586855f6b9eeba0',
+    'Ocp-Apim-Subscription-Key': '',
 }
 
 
